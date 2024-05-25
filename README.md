@@ -35,7 +35,8 @@ The following table shows a sample of the loading screen ASCII included in the c
 
 |                                       |                                       |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| ![mario.png](previews/on-device/mario.png "mario.png") | ![calvin.jpg](previews/on-device/calvin.jpg "calvin.jpg") | ![dopefish.png](previews/on-device/dopefish.png "dopefish.png") | ![mushroom.jpg](previews/on-device/mushroom.jpg "mushroom.jpg") |
+| mario-dead-t0b10.ascii                | calvin.ascii                          | dopefish.ascii                        | mushroom.ascii                        |
+| ![mario.ascii](previews/on-device/mario.png "mario.ascii") | ![calvin.ascii](previews/on-device/calvin.jpg "calvin.ascii") | ![dopefish.ascii](previews/on-device/dopefish.jpg "dopefish.ascii") | ![mushroom.ascii](previews/on-device/mushroom.jpg "mushroom.ascii") |
 
 
 ## Contributions
