@@ -25,11 +25,18 @@ The following table shows a sample of the loading screen ASCII included in the c
 |                                       |                                       |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | calvin.ascii                          | dopefish.ascii                        | joystick.ascii                        | mario-head-t0b10.ascii                |
-| ![calvin.ascii](.ascii-previews/calvin.png "calvin.ascii") | ![dopefish.ascii](.ascii-previews/dopefish.png "dopefish.ascii") | ![joystick.ascii](.ascii-previews/joystick.png "joystick.ascii") | ![mario-head-t0b10.ascii](.ascii-previews/mario-head-t0b10.png "mario-head-t0b10.ascii") |
+| ![calvin.ascii](previews/ascii/calvin.png "calvin.ascii") | ![dopefish.ascii](previews/ascii/dopefish.png "dopefish.ascii") | ![joystick.ascii](previews/ascii/joystick.png "joystick.ascii") | ![mario-head-t0b10.ascii](previews/ascii/mario-head-t0b10.png "mario-head-t0b10.ascii") |
 | mario.ascii                           | mushroom.ascii                        | pikachu.ascii                         | spongebob.ascii                       |
-| ![mario.ascii](.ascii-previews/mario.png "mario.ascii") | ![mushroom.ascii](.ascii-previews/mushroom.png "mushroom.ascii") | ![pikachu.ascii](.ascii-previews/pikachu.png "pikachu.ascii") | ![spongebob.ascii](.ascii-previews/spongebob.png "spongebob.ascii") |
+| ![mario.ascii](previews/ascii/mario.png "mario.ascii") | ![mushroom.ascii](previews/ascii/mushroom.png "mushroom.ascii") | ![pikachu.ascii](previews/ascii/pikachu.png "pikachu.ascii") | ![spongebob.ascii](previews/ascii/spongebob.png "spongebob.ascii") |
 | toad.ascii                                           | | | |
-| ![toad.ascii](.ascii-previews/toad.png "toad.ascii") | | | |
+| ![toad.ascii](previews/ascii/toad.png "toad.ascii") | | | |
+
+### On-Device Captures
+
+|                                       |                                       |                                       |                                       |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![mario.png](previews/on-device/mario.png "mario.png") | ![calvin.jpg](previews/on-device/calvin.jpg "calvin.jpg") | ![dopefish.png](previews/on-device/dopefish.png "dopefish.png") | ![mushroom.jpg](previews/on-device/mushroom.jpg "mushroom.jpg") |
+
 
 ## Contributions
 Contributions are welcome. If you've created some loading screens you'd like to contribute, please submit a pull request.
