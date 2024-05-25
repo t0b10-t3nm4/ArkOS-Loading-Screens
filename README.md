@@ -38,4 +38,4 @@ Contributions are welcome. If you've created some loading screens you'd like to 
 I have written a script that can randomize your loading screen between game launches. I am still testing this and working out some of the kinks but check back soon for the script.
 
 ## Acknowledgements
-Thanks to christianhatian for creating ArkOS and thanks to the community for being so awesome and supporting one another.
+Thanks to [Christian Hatian](https://github.com/christianhaitian) for creating [ArkOS](https://github.com/christianhaitian/arkos) and sharing it with the community. Please consider [donating to ArkOS](https://www.paypal.com/donate?hosted_button_id=RC72LJ4SSERSU) so that this awesome project can continue.
